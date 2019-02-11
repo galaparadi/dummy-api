@@ -11,6 +11,7 @@
 	],
 	"kendaraan" : [
 		{
+			"id" : 1,
 			"merk" : "toyota",
 			"jenis" : "mobil",
 			"roda" : {
@@ -19,6 +20,7 @@
 			}
 		},
 		{
+			"id" : 2,
 			"merk" : "honda",
 			"jenis" : "motor",
 			"roda" : {
