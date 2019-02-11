@@ -12,11 +12,19 @@
 	"kendaraan" : [
 		{
 			"merk" : "toyota",
-			"jeni" : "mobil"
+			"jenis" : "mobil",
+			"roda" : {
+				"depan" : true,
+				"belakang" : true
+			}
 		},
 		{
 			"merk" : "honda",
-			"jeni" : "motor"
+			"jenis" : "motor",
+			"roda" : {
+				"depan" : true,
+				"belakang" : false
+			}
 		}
 	]
 }
