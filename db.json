@@ -27,6 +27,15 @@
 				"depan" : true,
 				"belakang" : false
 			}
+		},
+		{
+			"id" : 3,
+			"merk" : "mitshubisi",
+			"jenis" : "mobil",
+			"roda" : {
+				"depan" : true,
+				"belakang" : true
+			}
 		}
 	]
 }
